@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "sender": "John Doe",
+      "subject": "Meeting Reminder",
+      "message": "Don't forget about our meeting tomorrow at 10 AM.",
+      "time": "09:00 AM",
+      "starred": false,
+      "selected": false
+    },
+    {
+      "id": "2",
+      "sender": "Jane Smith",
+      "subject": "Project Update",
+      "message": "The project is on track for the deadline.",
+      "time": "Yesterday",
+      "starred": false,
+      "selected": false
+    }
+  ]
+  
